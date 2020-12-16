@@ -8,7 +8,7 @@ work lazy work smart
 <center>
 <br>
   
-![Github Stats](https://github-readme-stats.vercel.app/api?username=Potatocat123&count_private=true&show_icons=true&theme=synthwavet&include_all_commits=true&icon_color=ffffff)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=Potatocat123&count_private=true&show_icons=true&theme=synthwave&include_all_commits=true&icon_color=ffffff)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Potatocat123&theme=synthwave)
 
