@@ -3,7 +3,6 @@
   <img src="https://pronouns.vercel.app/she/they?gradient=colors%20of%20sky" width="256" height="64" alt="My pronouns are she/they">
 </a>
 </a>
-</a> <br>
 work lazy work smart
 <br>
 
