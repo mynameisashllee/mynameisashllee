@@ -1,6 +1,7 @@
 <h1>Hey there, im a been!</h1>
 <a>
-  <img src="https://pronouns.vercel.app/she/her?gradient=noon%20to%20dusk" width="256" height="64" alt="My pronouns are she/her">
+  <img src="https://pronouns.vercel.app/she/they?flag=lesbian?gradient=colors%20of%20sky" width="256" height="64" alt="My pronouns are she/they">
+</a>
 </a> <br>
 work lazy work smart
 <br>
