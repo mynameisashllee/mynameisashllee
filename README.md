@@ -1,6 +1,7 @@
 <h1>Hey there, im Akshara!</h1>
 <a>
-  <img src="https://pronouns.vercel.app/she/they?gradient=colors%20of%20sky" width="256" height="64" alt="My pronouns are she/they">
+  <img src="https://pronouns.vercel.app/they/she/xe?gradient=piggy%20pink" width="256" height="64" alt="My pronouns are they/she/xe">
+</a>
 </a>
 </a>
 work lazy work smart
