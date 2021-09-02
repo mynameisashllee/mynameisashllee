@@ -1,18 +1,17 @@
-<h1>Hey there, im Akshara!</h1>
+<h1>Hey there, im Ara!</h1>
 <a>
   <img src="https://pronouns.vercel.app/they/she/xe?gradient=piggy%20pink" width="256" height="64" alt="My pronouns are they/she/xe">
 </a>
 </a>
 </a>
-work lazy work smart
+work lazy work smart (;
 <br>
 
 <center>
 <br>
   
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Potatocat123&count_private=true&show_icons=true&theme=synthwave&include_all_commits=true&icon_color=ffffff)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Potatocat123&theme=synthwave)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Potatocat123)](https://github.com/Potatocat123/github-readme-stats)
 
 </center>
 <br>
