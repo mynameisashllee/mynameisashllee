@@ -11,7 +11,9 @@ work lazy work smart (;
 <br>
   
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Potatocat123&count_private=true&show_icons=true&theme=synthwave&include_all_commits=true&icon_color=ffffff)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Potatocat123)](https://github.com/Potatocat123/github-readme-stats)
+
+<br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Potatocat123)
 
 </center>
 <br>
