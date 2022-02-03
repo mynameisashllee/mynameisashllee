@@ -1,6 +1,6 @@
 <h1>Hey there, im Ara!</h1>
 <a>
-  <img src="https://pronouns.vercel.app/they/them?flag=lesbian?gradient=piggy%20pink" width="256" height="64" alt="My pronouns are they/them">
+  <img src="https://pronouns.vercel.app/they/she/xe?gradient=piggy%20pink" width="256" height="64" alt="My pronouns are they/she/xe">
 </a>
 </a>
 </a>
