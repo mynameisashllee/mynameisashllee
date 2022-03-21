@@ -10,7 +10,7 @@ work lazy work smart (;
 
 ![ara's GitHub stats](https://github-readme-stats.vercel.app/api?username=Potatocat123&theme=dracula&show_icons=true)
 <br>
-![ara's top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Potatocat123&theme=dracula)
+![ara's top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Potatocat123&theme=dracula&layout=compact)
 
 </center>
 <br>
