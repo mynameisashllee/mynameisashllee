@@ -8,9 +8,12 @@ work lazy work smart (;
 <center>
 <br>
 
-![ara's GitHub stats](https://github-readme-stats.vercel.app/api?username=Potatocat123&theme=dracula&show_icons=true)
+![ara's github stats](https://github-readme-stats.vercel.app/api?username=Potatocat123&theme=dracula&show_icons=true)
 <br>
 ![ara's top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Potatocat123&theme=dracula&layout=compact)
+<br>
+<br>
+![ara's last played](https://spotify-recently-played-readme.vercel.app/api?user=hfr74m0jli3zfbpe7hznays2z&unique={true|1|on|yes})
 
 </center>
 <br>
