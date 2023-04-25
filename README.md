@@ -12,8 +12,6 @@ work lazy work smart (;
 <br>
 ![ara's top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mynameisashllee&theme=dracula&layout=compact)
 <br>
-<br>
-![ara's last played](https://spotify-recently-played-readme.vercel.app/api?user=hfr74m0jli3zfbpe7hznays2z&unique={true|1|on|yes})
 
 </center>
 <br>
