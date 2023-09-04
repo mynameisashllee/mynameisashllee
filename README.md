@@ -1,9 +1,7 @@
 <h1>hey there, i'm ara!</h1>
-<a>
-  <img src="https://pronouns.vercel.app/they/them?gradient=piggy%20pink" width="256" height="64" alt="My pronouns are they/them">
+ <a>
+<img src="https://pronouns.vercel.app/she/they?gradient=piggy%20pink" width="256" height="64" alt="My pronouns are they/them">
 </a>
-work lazy work smart (;
-<br>
 
 <center>
 <br>
