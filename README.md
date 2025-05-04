@@ -48,4 +48,5 @@
 <h2>stats</h2>
 
 ![ara's top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mynameisashllee&theme=dracula&layout=compact)
+![ara's hackatime](https://github-readme-stats.hackclub.dev/api/wakatime?username=1535&api_domain=hackatime.hackclub.com&theme=rose&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8)
 
